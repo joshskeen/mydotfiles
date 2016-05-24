@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/joshskeen/code/android-roadshow-2015'
+let g:netrw_dirhist_2='/Users/joshskeen/code/milegacy_api'
+let g:netrw_dirhist_3='/Users/joshskeen/code/ruby-face-detection'
+let g:netrw_dirhist_4='/Users/joshskeen/code/milegacy_api'
+let g:netrw_dirhist_5='/Users/joshskeen/code/amazon-alexa-course/book/haIntro/solution/helloAlexa/src'
+let g:netrw_dirhist_6='/Users/joshskeen/code/devquest'
+let g:netrw_dirhist_7='/Users/joshskeen/Desktop/server'
